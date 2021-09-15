@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69f4dd88-369e-4ba3-9722-11e218ce1d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="69f4dd88-369e-4ba3-9722-11e218ce1d51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,5 +81,21 @@
       <screen x="1440" y="23" width="2560" height="1417" />
     </state>
     <state x="2184" y="393" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.837/1440.23.2560.1417@1440.23.2560.1417" timestamp="1631693926484" />
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom" timestamp="1631693966205">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.bottom/0.23.1440.837/1440.23.2560.1417@1440.23.2560.1417" timestamp="1631693966205" />
+    <state width="2518" height="409" key="GridCell.Tab.0.center" timestamp="1631693966203">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.center/0.23.1440.837/1440.23.2560.1417@1440.23.2560.1417" timestamp="1631693966203" />
+    <state width="2518" height="409" key="GridCell.Tab.0.left" timestamp="1631693966201">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.left/0.23.1440.837/1440.23.2560.1417@1440.23.2560.1417" timestamp="1631693966201" />
+    <state width="2518" height="409" key="GridCell.Tab.0.right" timestamp="1631693966204">
+      <screen x="1440" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="409" key="GridCell.Tab.0.right/0.23.1440.837/1440.23.2560.1417@1440.23.2560.1417" timestamp="1631693966204" />
   </component>
 </project>
