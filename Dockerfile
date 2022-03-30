@@ -8,7 +8,7 @@ RUN apt-get update -y && apt-get install gcc ca-certificates
 RUN go build -o custom-metrics-sample /go/src/k8s-custom-metrics-sample
 
 
-FROM alpine:3.9.6
+FROM alpine:3.15.3
 
 COPY --from=build-env /go/src/k8s-custom-metrics-sample/custom-metrics-sample /
 RUN mkdir /lib64 && ln -s /lib/libc.musl-x86_64.so.1 /lib64/ld-linux-x86-64.so.2
